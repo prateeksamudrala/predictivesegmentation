@@ -1,4 +1,5 @@
 # predictivesegmentation
+<<<<<<< HEAD
 TLDR: A proof of concept project that explores creating new groups of segments (predicting segments) based on demographic and existing categorization
 
 Not-TLDR:
@@ -10,3 +11,6 @@ Predictive Segmentation can have a broad range of use cases; hence the research 
 
 Our specific focus will be on predicting new groups of customers for an automobile company that is looking to venture into a new market.
 
+=======
+A  project that explores creating new groups of segments (predicting segments) based on demographic and existing categorization
+>>>>>>> 80b170862371852cd19cbc2ec8f8d1a973d1e096
